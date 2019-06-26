@@ -1,1 +1,78 @@
+div{-ms-flex-item-align: center}
 
+
+body { background: cornflowerblue
+
+    div class="gallery" 
+
+}
+.octodex{
+    display: flex; 
+}
+.octocat > a > img{
+    width: 300px;
+}
+ul {
+    padding:0;
+    list-style:none;
+}
+img-container {
+    float: left;
+    width: 20.33%; 
+    padding: 5px; 
+  }
+
+img {
+    border: 1px solid rgb(182, 97, 97);
+    border-radius: 4px;
+    padding: 5px;
+    width: 20px;
+  }
+
+  
+  image.right {
+    float: right;
+    width: 200px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+  }
+  .clearfix {
+    overflow: auto;
+  }
+  img 
+  {
+
+    width  
+  
+
+  #menu- outer {
+    height:
+	background: url(images/bar-bg.jpg) repeat-x;
+                    
+      }
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+    }
+    
+ .octodex { 
+    display: flex;
+    flex-wrap: nowrap;
+}
+.image-footer, .image-caption {
+    display:flex;
+}
+
+.image-footer {
+    justify-content: space-between;
+}
